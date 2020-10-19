@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "xz",
+      "phone": "e",
+      "address": "sd",
+      "membership": "",
+      "id": 4
+    },
+    {
+      "name": "ds",
+      "phone": "3",
+      "address": "ds",
+      "membership": "Basic",
+      "id": 5
+    }
+  ]
+}
